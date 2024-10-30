@@ -1,0 +1,491 @@
+@media (max-width:420px){
+  .flow{
+    width: 100%;
+  }
+  body{
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+  }
+  #logo{
+    width: 14vh;
+    height: 14vh;
+    /* margin: 5px; */
+  }
+  #image1{
+    width: 100%;
+    height: 300px;
+    background-color: aqua;
+  }
+
+  .video-container{
+    width: 100%;
+    height: auto;
+  }
+  #style{
+    font-size: 20px;
+  }
+  #text{
+    position: relative;
+    bottom: 205px;
+    left: 10px;
+  }
+  .home{
+    width: 100%;
+    height: 200px;
+  }
+  #quote{
+    position: relative;
+    top: -200px;
+    left: 10px;
+    font-size: 14px;
+  }
+#more{
+  position: relative;
+    bottom: 200px;
+    font-size: 12px;
+    padding: 5px;
+    color: white;
+}
+.title{
+  width: 100%;
+  height: 60px;
+}
+#us{
+  font-size: 30px;
+  position: relative;
+  bottom: 5rem;
+  left: 4rem;
+
+}
+
+#showphoto {
+  background-color: rgb(10, 10, 10);
+  width: 100% ;/* Full width of the viewport */
+  overflow: hidden; /* Hides images when they move outside the viewport */
+  white-space: nowrap; /* Prevents the images from wrapping to the next line */
+  box-sizing: border-box;
+  height: 200px; /* Adjust the height according to your image size */
+  position: relative;
+  top: 100px;
+  margin: 0px 0px 50px 0px;
+  
+}
+ 
+
+.card-display{
+  position: relative;
+  top: 100px;
+}
+
+#portfolio{
+  position: relative;
+  top: 100px;
+}
+.check{
+  position: relative;
+  top: 100px;
+  font-size: 20px;
+}
+
+/* CONTECT */
+
+p{
+  font-size: 20px;
+}
+
+/* next */
+.head{
+  text-align: center;
+  padding: 2rem;
+  background-image: url('./images/about_us.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100px;
+  width: 100%;
+  color: white;
+  font-size: 2.5rem;
+}
+#one{
+display: block;
+margin: 1rem;
+}
+.been{
+/* margin-left: 1rem; */
+position: relative;
+bottom: 5rem;
+width: 50%; 
+height: 12rem; 
+border-radius: 5px; 
+text-align:center; 
+ 
+} 
+
+#inputs{
+width: 20rem;
+margin: 0;
+text-align: center;
+
+}
+#inputs:hover{
+width: 240px;
+box-shadow: 0px 0px 10px gray;
+text-align: center;
+margin: 3px;
+}
+
+#pchhetri{ 
+width: 150px;
+height: 250px; 
+margin: 4px;
+} 
+
+#pchhetri:hover{ 
+width: 100%px;
+transform: scale(1.1);
+box-shadow: 0px 0px 10px gray;
+margin: 5px;
+} 
+.iconsandtext{ 
+position: absolute; 
+padding: 5px; 
+font-size: 15px;
+
+} 
+
+#submit{ 
+width: 100px; 
+height: 2rem; 
+border-radius: 5px ; 
+position: relative;
+bottom: 100px;
+
+}
+
+iframe{
+  width: 25rem;
+  height: 15rem;
+  }
+
+#contact{
+  width: 100%;
+  /* background-color: rgb(11, 11, 11); */
+}
+#one{
+  display: block;
+  margin: 20px;
+}
+#pchhetri{
+  width: 100%;
+  height: 300px;
+}
+#pchhetri:hover{
+  transform: scale(1.1);
+  width: 85vw;
+  box-shadow: 0px 0px 10px white;
+  margin: 10px;
+}
+#inputs{
+  width: 100%;
+  padding: 20px;
+
+}
+#inputs:hover{
+  transform: scale(1.1);
+  width: 85vw;
+  height: 80vh;
+  margin: 10px;
+}
+#chhetri{
+  font-size: 15px;
+  padding: 10px;
+  
+}
+
+.been{
+  
+  position: relative;
+  bottom: 0px;
+  width: 300px; 
+  height: 7vh; 
+  border-radius: 5px; 
+  text-align:center; 
+  margin: 5px;
+  padding: 10px;    
+}
+#textinside{
+  position: relative;
+  height: 120px;
+}
+#submit{
+  position: relative;
+  top: 4vh;
+}
+
+
+
+/* ABOUT US */
+.container{
+  display: block;
+  width: 100%;
+  height: 50rem;
+}
+.content{
+  position: relative;
+  width: 94vw;
+  top: -2vh;
+}
+.image-section{
+display: block;
+width: 100%;
+border-radius: 5px;
+position: relative;
+top: 4vh;
+
+}
+.section1{
+position: relative;
+left: 15px;
+}
+#ourmission{
+  position: relative;
+  bottom: 5rem;
+}
+.container1{
+display: block;
+}
+#ourvision{
+  position: relative;
+  bottom: 5rem;
+}
+.writtentext{
+  position: relative;
+  bottom: 5rem;
+}
+.content-section1{
+width:100%;
+height:80vh ;
+margin: 0;
+padding: 0;
+text-align: center;
+}
+.image-section1{
+position: relative;
+left: 1rem;
+width: 20rem;
+height: 15rem;
+margin: 0;
+}
+#vision1{
+width: 16rem;
+height: 15rem;
+position: relative;
+right: 1rem;
+margin: 0;
+bottom: 14rem;
+}
+
+#ama{
+  width: 16rem;
+  height: 13rem;
+  position: relative;
+  top: 2rem;
+  right: 1rem;
+  margin: 0;
+}
+.image-section1{
+  position: relative;
+  right: 1rem;
+}
+#weall{
+  font-size: 30px;
+  padding: 20px;
+}
+
+/* footer */
+#footer{
+  background-color: #333;
+  display: block;
+  width:100%;
+  height: 87rem;
+  padding: 1rem;
+  text-align: center;
+}
+.sameall{
+  width: 25rem;
+  margin: 0;
+  text-align: center;
+  position: relative;
+  right: 2rem;
+}
+.forall .down{
+  text-align: center;
+}
+i{
+font-size: 25px;
+padding-top: 10px;
+}
+.colorsame{
+font-size: 20px;
+color: rgb(8, 246, 234); 
+position: relative;
+}
+
+.end{
+background-color: #0a0a0a;
+width: 100%;
+/* height: 50px; */
+
+}
+marquee{
+padding: 15px;
+}
+
+/* SERVICES */
+
+#service{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.photosdiv{
+  display: block;
+}
+
+.allimagehere{
+  width: 14.5rem;
+  height: 12rem;
+  margin: 1%;
+}
+#huge{
+width: 70px;
+height: 25px;
+background-color: #5d5d5d;
+position: relative;
+left: 130px;
+padding: 1px;
+cursor: pointer;
+font-size: 15px;
+}
+#our{
+background-image: url('./images/servicesimage.gif');
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
+height: 110px;
+padding: 10px;
+margin: 10px;
+font-size: 40px;
+color: rgb(240, 236, 236);
+padding-left: 100px;
+}
+.div{
+box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+width: 350px;
+justify-content: center;
+align-items: center;
+background-color: rgb(8, 8, 8);
+color: whitesmoke;
+margin: 10px 0;
+border-radius: 7px;
+box-shadow: 0px 0px 20px gray;
+padding: 5px;
+}
+
+.div:hover{
+  transform: scale(1.1);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+  width: 360px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(8, 8, 8);
+  color: whitesmoke;
+  margin: 10px 0;
+  border-radius: 7px;
+  box-shadow: 0px 0px 20px gray;
+  padding: 5px;
+  }
+  .points{
+    font-size: 15px;
+  }
+
+/* carousel */
+#carouseldiv{
+  padding: 1rem;
+  margin: 100px 0px 10px 0px;
+}
+.check{
+  font-size: 15px;
+}
+
+/* AOS */
+.sentances{
+  font-size: 12px;
+}
+.box {
+    
+  justify-content: center;
+  align-items: center;
+  width: 23rem;
+  height: 14rem;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  background-color: #050505;
+  text-align: center;
+  position: relative;
+  right: 45vw;
+}
+
+.overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+
+#myPic{
+  display: block;
+}
+.card-display{
+  display: inline-block;
+  position: relative;
+  bottom: 50px;
+}
+#boxfont{
+  width: 100%;
+  height: 400px;
+  
+}
+
+#myPic{
+  display: block;
+  
+}
+
+.card-display{
+  display: block;
+ 
+}
+.box {
+
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  height: 300px;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #030303;
+  text-align: center;
+  position: relative;
+  
+}
+}
